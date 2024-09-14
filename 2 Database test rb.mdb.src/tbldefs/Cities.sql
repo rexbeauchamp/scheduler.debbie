@@ -1,0 +1,5 @@
+﻿CREATE TABLE [Cities] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [CityName] VARCHAR (255),
+  [IsCommon] BIT
+)

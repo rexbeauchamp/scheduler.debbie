@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "Reference",
+    "Attributes": 2,
+    "Table": "MediatorNames",
+    "ForeignTable": "SchedulingDetails",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Mediator"
+      }
+    ]
+  }
+}

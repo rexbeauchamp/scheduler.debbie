@@ -1,0 +1,213 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "2024-09-14T23:34:45.000Z",
+    "FullExportDate": "2024-09-14T23:34:45.000Z",
+    "OptionsHash": "d620f90",
+    "LastMergedCommit": "",
+    "Components": {
+      "DB Connections": {
+        "db-connection.json": {
+        }
+      },
+      "DB Properties": {
+        "dbs-properties.json": {
+          "FileHash": "3d27e93",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "2f7ad8b"
+        }
+      },
+      "Doc Properties": {
+        "documents.json": {
+          "FileHash": "90db34a",
+          "ExportDate": "2024-09-14T23:34:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "4d16ee5"
+        }
+      },
+      "Forms": {
+        "Attornies.bas": {
+          "FileHash": "c7a8c02",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "73476b3"
+        },
+        "Attorny Details.bas": {
+          "FileHash": "934d51b",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "056336f"
+        },
+        "Copy of Copy of Mediation Details.bas": {
+          "FileHash": "f2ff4a5",
+          "OtherHash": "0b22bdd",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "fa4ccd6"
+        },
+        "Copy of Mediation Details.bas": {
+          "FileHash": "b7ca4ba",
+          "OtherHash": "0b22bdd",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1783d94"
+        },
+        "Mediation Details.bas": {
+          "FileHash": "2700db5",
+          "OtherHash": "0b22bdd",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "01d6771"
+        },
+        "Paralegal.bas": {
+          "FileHash": "9cda5d8",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "4834550"
+        }
+      },
+      "Hidden Attributes": {
+        "hidden-attributes.json": {
+          "FileHash": "2705691",
+          "ExportDate": "2024-09-14T23:34:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "834aa8a"
+        }
+      },
+      "Nav Pane Groups": {
+        "nav-pane-groups.json": {
+          "FileHash": "8b001dd",
+          "ExportDate": "2024-09-14T23:34:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "aea7425"
+        }
+      },
+      "Proj Properties": {
+        "proj-properties.json": {
+        }
+      },
+      "Project": {
+        "project.json": {
+          "FileHash": "9244188",
+          "ExportDate": "2024-09-14T23:34:43.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "debf10c"
+        }
+      },
+      "Queries": {
+        "Find Old Payment Data.bas": {
+          "FileHash": "7df41aa",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1d0c8ae"
+        },
+        "FindActiveUnscheduledCases.bas": {
+          "FileHash": "4e37a1a",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e129320"
+        }
+      },
+      "Relations": {
+        "CountiesSchedulingDetails.json": {
+          "FileHash": "bc11df3",
+          "ExportDate": "2024-09-14T23:34:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cb18236"
+        },
+        "Reference.json": {
+          "FileHash": "f7cd69e",
+          "ExportDate": "2024-09-14T23:34:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "2e1ffd6"
+        },
+        "StatesSchedulingDetails.json": {
+          "FileHash": "a8e28bf",
+          "ExportDate": "2024-09-14T23:34:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "a6b48ad"
+        },
+        "StatesSchedulingDetails1.json": {
+          "FileHash": "0259418",
+          "ExportDate": "2024-09-14T23:34:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d2a89d7"
+        }
+      },
+      "Reports": {
+        "Active Unscheduled Cases.bas": {
+          "FileHash": "df0dcb7",
+          "ExportDate": "2024-09-14T23:34:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "133fd8e"
+        }
+      },
+      "Tables": {
+        "Attornies.xml": {
+          "FileHash": "5ce356b",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "69fd27b"
+        },
+        "Cities.xml": {
+          "FileHash": "358ef99",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "65b2864"
+        },
+        "Counties.xml": {
+          "FileHash": "53533f8",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "f0ef043"
+        },
+        "MediatorNames.xml": {
+          "FileHash": "508c202",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "41d1c00"
+        },
+        "Paralegals.xml": {
+          "FileHash": "8bde2f9",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "0dca4f8"
+        },
+        "SchedulingDetails.xml": {
+          "FileHash": "e9fbe11",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "59776ca"
+        },
+        "States.xml": {
+          "FileHash": "9d3b7eb",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "40723d3"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "FileHash": "e3c9380",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "bc2e3ed"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "FileHash": "1abf7bb",
+          "ExportDate": "2024-09-14T23:34:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "002e7d2"
+        }
+      }
+    }
+  }
+}

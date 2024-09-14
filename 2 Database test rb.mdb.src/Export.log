@@ -1,0 +1,181 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+2 Database test rb.mdb
+VCS Version 4.0.34
+Full Path: C:\Users\rexbe_h3zdsan\2 Database test rb.mdb
+Export Folder: C:\Users\rexbe_h3zdsan\2 Database test rb.mdb.src\
+Performing Full Export
+9/14/2024 5:34:43 PM
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No proj properties found in this database.
+No saved specs found in this database.
+No shared images found in this database.
+No themes found in this database.
+No imex specs found in this database.
+No macros found in this database.
+No table data found in this database.
+No modules found in this database.
+No table data macros found in this database.
+-------------------------------------
+Exporting project...          
+  2 Database test rb.mdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  Shannon
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[2]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[49]
+-------------------------------------
+Exporting tables...           
+  Attornies
+    Sanitized in 0.002 seconds.
+  Attornies (SQL)
+  Cities
+    Sanitized in 0.001 seconds.
+  Cities (SQL)
+  Counties
+    Sanitized in 0.001 seconds.
+  Counties (SQL)
+  MediatorNames
+    Sanitized in 0.001 seconds.
+  MediatorNames (SQL)
+  Paralegals
+    Sanitized in 0.001 seconds.
+  Paralegals (SQL)
+  SchedulingDetails
+    Sanitized in 0.007 seconds.
+  SchedulingDetails (SQL)
+  States
+    Sanitized in 0.001 seconds.
+  States (SQL)
+[7]
+-------------------------------------
+Exporting queries...          
+  Find Old Payment Data
+    Sanitized in 0.002 seconds.
+  Find Old Payment Data (SQL)
+  FindActiveUnscheduledCases
+    Sanitized in 0.001 seconds.
+  FindActiveUnscheduledCases (SQL)
+[2]
+-------------------------------------
+Exporting forms...            
+  Copy of Mediation Details
+    Sanitized in 0.019 seconds.
+  Mediation Details
+    Sanitized in 0.018 seconds.
+  Attorny Details
+    Sanitized in 0.004 seconds.
+  Copy of Copy of Mediation Details
+    Sanitized in 0.018 seconds.
+  Paralegal
+    Sanitized in 0.003 seconds.
+  Attornies
+    Sanitized in 0.003 seconds.
+[6]
+-------------------------------------
+Exporting reports...          
+  Active Unscheduled Cases
+    Sanitized in 0.004 seconds.
+[1]
+-------------------------------------
+Exporting relations...        
+  CountiesSchedulingDetails
+  Reference
+  StatesSchedulingDetails
+  StatesSchedulingDetails1
+[4]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[2]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[1]
+-------------------------------------
+Exporting hidden attributes...
+  Database hidden attributes
+[4]
+-------------------------------------
+Done. (1.42 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+Forms                         6         0.47
+Tables                        7         0.34
+DB Properties                 49        0.12
+Queries                       2         0.09
+Relations                     4         0.06
+Doc Properties                2         0.05
+Reports                       1         0.04
+Nav Pane Groups               1         0.04
+Hidden Attributes             4         0.03
+Project                       1         0.03
+VBE References                2         0.03
+VB Project                    1         0.02
+DB Connections                0         0.02
+Proj Properties               0         0.01
+Table Data Macros             0         0.00
+IMEX Specs                    0         0.00
+Shared Images                 0         0.00
+Themes                        0         0.00
+Table Data                    0         0.00
+VBE Forms                     0         0.00
+Saved Specs                   0         0.00
+Modules                       0         0.00
+Macros                        0         0.00
+--------------------------------------------------
+TOTALS:                       80        1.33
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Convert to JSON               766       0.20
+Increment Progress            54        0.12
+App.ExportXML()               7         0.11
+Write File                    43        0.11
+Clear Files by Ext            26        0.10
+Scan DB Objects               1         0.09
+App.SaveAsText()              9         0.08
+Sanitize File                 9         0.07
+Console Updates               3         0.02
+Format SQL                    2         0.02
+Get File Property Hash        27        0.02
+Save Table SQL                7         0.01
+Sanitize XML                  7         0.01
+Delete File                   17        0.01
+Verify Path                   59        0.01
+Read File DevMode             7         0.01
+Compute SHA256                73        0.01
+Read File                     16        0.01
+Check for linked table        7         0.01
+Read File Bytes               16        0.00
+Quick Count Objects           1         0.00
+Quick Count Files             1         0.00
+Get Modified Date             43        0.00
+Format XML                    6         0.00
+Format XML (alt)              1         0.00
+Save Query SQL                2         0.00
+Get VBA Hash                  7         0.00
+Create Folder                 6         0.00
+Sanitize VBA Code             3         0.00
+--------------------------------------------------
+Other Operations                        0.39
+--------------------------------------------------
+
+
